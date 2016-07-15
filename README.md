@@ -20,7 +20,7 @@ Please reference:
 [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7477681 "IEEE Website")  
 [Caffe Training Network Definition](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7477681 "GitHub")  
 [Caffe Deploy Network Definition](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7477681 "GitHub")  
-[Caffe Model](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7477681 "IEEE Website")  
+[Caffe Model](http://isee.sysu.edu.cn/files/resource/FFN.caffemodel "SYSU iSEE-Lab Website")  
 [VIPeR Feature](http://isee.sysu.edu.cn/files/resource/viper_mix.mat "SYSU iSEE-Lab Website")  
 [VIPeR Ours+LOMO Feature, Recommended](http://isee.sysu.edu.cn/files/resource/viper_lomo_mix.mat "SYSU iSEE-Lab Website")  
 [CUHK01 Feature](http://isee.sysu.edu.cn/files/resource/cuhk_mix.mat "SYSU iSEE-Lab Website")  
