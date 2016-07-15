@@ -33,3 +33,7 @@ Other codes used in my paper(by Ying-Cong Chen @ CUHK, SYSU):
 
 [ELF16 Feature Extraction Code](http://isee.sysu.edu.cn/~chenyingcong/code/demo_feat.zip "SYSU iSEE-Lab Website")  
 [Mirror KMFA Metric Learning Code](http://isee.sysu.edu.cn/~zhwshi/Research/PreprintVersion/Mirror%20Representation%20for%20Modeling%20View-specific%20Transform%20in%20Person%20Re-identification.pdf "SYSU iSEE-Lab Website")  
+
+Network Structure
+---
+
