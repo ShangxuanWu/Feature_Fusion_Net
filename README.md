@@ -18,6 +18,8 @@ Please reference:
 }
 
 [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7477681 "IEEE Website")  
+[My Bachelor Thesis 本科毕业论文 on Person Re-identification](https://github.com/alanwsx/Feature_Fusion_Net/blob/master/Bachelor_Thesis.pdf "GitHub")  
+
 [Caffe Training Network Definition](https://github.com/alanwsx/Feature_Fusion_Net/blob/master/FFN.prototxt "GitHub")  
 [Caffe Deploy Network Definition](https://github.com/alanwsx/Feature_Fusion_Net/blob/master/FFN_feature_extraction.prototxt "GitHub")  
 [Caffe Model](http://isee.sysu.edu.cn/files/resource/FFN.caffemodel "SYSU iSEE-Lab Website")  
