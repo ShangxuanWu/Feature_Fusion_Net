@@ -36,4 +36,4 @@ Other codes used in my paper(by Ying-Cong Chen @ CUHK, SYSU):
 
 Network Structure
 ---
-
+[![weibo-logo]](https://github.com/alanwsx/Feature_Fusion_Net/blob/master/Network_Structure.jpg)  
